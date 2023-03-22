@@ -1,2 +1,2 @@
-# detectin-object-by-color-in-video
+# detecting-object-by-color-in-video
 detecting objects by predetermined color in a real time video
